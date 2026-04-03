@@ -1,0 +1,13 @@
+# Credentials — never commit these
+.env
+
+# Python cache files (auto-generated, not useful to track)
+__pycache__/
+*.pyc
+
+# Virtual environment (if you use one later)
+venv/
+.venv/
+
+# macOS junk (just good habit)
+.DS_Store
